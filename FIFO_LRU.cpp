@@ -9,7 +9,7 @@
 using namespace std;
 
 
-int FIFO(int pages[], int n, int capacity) {//pages²Ä´Xµ§´ú¸ê,n¬O16,capacity­pºâÁ`®e¶q
+int FIFO(int pages[], int n, int capacity) {//pagesç¬¬å¹¾ç­†æ¸¬è³‡,næ˜¯16,capacityè¨ˆç®—ç¸½å®¹é‡
 
 	unordered_set<int> s;
 
